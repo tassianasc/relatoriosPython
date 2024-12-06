@@ -10,3 +10,15 @@ Este projeto foi desenvolvido como parte de um trabalho de graduação para demo
 
 O objetivo principal foi garantir que os métodos dessas classes funcionem corretamente após a correção e sejam testados adequadamente.
 ---
+## Tecnologias Utilizadas
+### Python 3.8+
+### Biblioteca de Testes:
+### unittest (nativo do Python)
+### pytest (opcional, para rodar os testes de forma simplificada)
+---
+## Como Executar o Projeto
+### 1. Pré-requisitos
+Certifique-se de ter o Python instalado:
+´´´
+python --version
+´´´
