@@ -22,3 +22,30 @@ Certifique-se de ter o Python instalado:
 ```
 python --version
 ```
+
+### 3. Executando os Testes
+Usando unittest:
+Navegue até o diretório do projeto no terminal.
+Execute os testes individualmente:
+
+```
+python -m unittest test_fibonacci_generator.py
+python -m unittest test_string_utils.py
+python -m unittest test_user_manager.py
+
+```
+Ou rode todos os testes de uma vez:
+```
+python -m unittest discover
+
+```
+Usando pytest (opcional):
+Instale o pytest:
+
+```
+pip install pytest
+```
+Execute todos os testes com:
+```
+pytest
+```
