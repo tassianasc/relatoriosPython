@@ -19,6 +19,6 @@ O objetivo principal foi garantir que os métodos dessas classes funcionem corre
 ## Como Executar o Projeto
 ### 1. Pré-requisitos
 Certifique-se de ter o Python instalado:
-´´´
+```
 python --version
-´´´
+```
